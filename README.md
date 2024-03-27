@@ -47,7 +47,7 @@ This is an example for the configuration of the "Customer Landing" landing zone:
 
 Building on top of what I learned during the course, I further simplified the process to generate the trusted zones, by combining all elements in the same Glue job, and replacing the duplicate step of generating and referencing "Customer Trusted" and the join with the use of a  customised Spark SQL Query in its core (3 steps in 1!):
 
-![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/47e9635c-1883-4c88-8c1f-ab3dcf6a13c4)
+![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/7309a620-c3f8-4084-8aef-f05eca6c8155)
 
 ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/017d2f4f-403b-4c90-9b5c-e11deef116d5)
 
@@ -69,6 +69,11 @@ on the creation of the accelerometer trusted zone, and similarly I did for step_
 
   ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/1485dadb-5a34-47fa-a5b7-e3848b340b2d)
 
+- customer_curated
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/796f27b6-8c61-4b6f-aa50-12ff93b38420)
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/b3fe3e94-3d6f-40e4-a8f2-e2aa5a2afea7)
 
 
 
