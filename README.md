@@ -49,7 +49,7 @@ Building on top of what I learned during the course, I further simplified the pr
 
 ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/7309a620-c3f8-4084-8aef-f05eca6c8155)
 
-![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/017d2f4f-403b-4c90-9b5c-e11deef116d5)
+![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/54b47921-14f5-465e-b405-d73fea05f24a)
 
 I have also generated the accelerometer_trusted table on the fly by choosing:
 
