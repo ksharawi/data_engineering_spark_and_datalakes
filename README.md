@@ -29,25 +29,51 @@ This is an example for the configuration of the "Customer Landing" landing zone:
 
   ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/f723aeaf-2db4-444b-98e4-d95a14e9d0e2)
 
-- step_trainer_landing
-
-  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/6ee07cbf-8e58-4a2a-8e61-cb6db91ea7a6)
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/f055ef01-ceef-47b0-81f1-a2abfa7323e0)
 
 - accelerometer_landing
 
   ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/d860eccb-8651-48a2-91d0-43bf43730b3b)
 
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/f27d092c-a372-4ee1-baf4-75226c47a781)
+
+- step_trainer_landing
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/6ee07cbf-8e58-4a2a-8e61-cb6db91ea7a6)
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/e8f4f9f5-7efd-4d07-ab05-f9d8a706d423)
+
 7- Create the trusted zones:
 
-Building on top of what I learned during the course, I further simplified the process to generate accelerometer_trusted Glue table, buy combining the all elements in the same Glue job, and replacing the duplicate step of generating and referencing "Customer Trusted" with the use of a Spark SQL Query:
+Building on top of what I learned during the course, I further simplified the process to generate the trusted zones, by combining all elements in the same Glue job, and replacing the duplicate step of generating and referencing "Customer Trusted" and the join with the use of a  customised Spark SQL Query in its core (3 steps in 1!):
 
-![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/b7595948-5c6d-4747-bcec-ec367ee3fc21)
+![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/47e9635c-1883-4c88-8c1f-ab3dcf6a13c4)
+
+![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/017d2f4f-403b-4c90-9b5c-e11deef116d5)
 
 I have also generated the accelerometer_trusted table on the fly by choosing:
 
 ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/986f649e-eaf6-4d5d-a4c8-947d299326be)
 
-on the creation of the accelerometer trusted zone.
+on the creation of the accelerometer trusted zone, and similarly I did for step_trainer_trusted.
+
+- customer_trusted
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/e42690df-b29d-4dfe-902d-029d02a46626)
+
+- accelerometer_trusted
+  
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/becbb738-5628-4c75-b959-bc5155ec73e0)
+
+- step_trainer_trusted
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/52b79c6f-5771-46e5-a47a-1b787d7ba0b5)
+
+
+
+
+  
+
 
   
 
