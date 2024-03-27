@@ -23,7 +23,7 @@
 This is an example for the configuration of the "Customer (Mobile) Landing" landing zone:
 ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/a56fc8dc-e186-4d52-96cf-e77bf93b40a1)
 
-6- Create a Glue Table for each of the landing zones to get a feel of the data:
+6- Create a Glue Table for each of the landing zones to get a feel of the data (I have selected the datatypes based on the data sample preview for each landing zone in Glue Studio):
 
 - customer_landing
 
