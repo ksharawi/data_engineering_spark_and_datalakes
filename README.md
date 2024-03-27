@@ -25,3 +25,18 @@ This is an example for the configuration of the "Customer (Mobile) Landing" land
 
 6- Create a Glue Table for each of the landing zones to get a feel of the data:
 
+- customer_landing
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/f723aeaf-2db4-444b-98e4-d95a14e9d0e2)
+
+- step_trainer_landing
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/6ee07cbf-8e58-4a2a-8e61-cb6db91ea7a6)
+
+- accelerometer_landing
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/d860eccb-8651-48a2-91d0-43bf43730b3b)
+  
+
+  
+
