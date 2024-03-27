@@ -25,7 +25,7 @@ This is an example for the configuration of the "Customer (Mobile) Landing" land
 
 6- Create a Glue Table for each of the landing zones to get a feel of the data:
 
----CREATE EXTERNAL TABLE IF NOT EXISTS `stedi-step-trainer`.`customer_landing` (
+--- CREATE EXTERNAL TABLE IF NOT EXISTS `stedi-step-trainer`.`customer_landing` (
   `customername` string,
   `email` string,
   `phone` string,
