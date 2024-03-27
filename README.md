@@ -46,6 +46,7 @@ Building on top of what I learned during the course, I further simplified the pr
 I have also generated the accelerometer_trusted table on the fly by choosing:
 
 ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/986f649e-eaf6-4d5d-a4c8-947d299326be)
+
 on the creation of the accelerometer trusted zone.
 
   
