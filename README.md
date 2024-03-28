@@ -59,11 +59,13 @@ on the creation of the accelerometer trusted zone, and similarly I did for step_
 
 - customer_trusted
 
-  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/e42690df-b29d-4dfe-902d-029d02a46626)
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/b603287d-afd6-403e-a1df-abcdcf4f5a12)
+
 
 - accelerometer_trusted
   
-  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/5e717feb-d9b7-4c99-a3fb-4fc10a5633c4)
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/d2ea501f-7f28-4a6d-96a8-2f8df3ea7fe6)
+
 
 - step_trainer_trusted
 
