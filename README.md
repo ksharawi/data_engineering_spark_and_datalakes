@@ -85,6 +85,21 @@ on the creation of the accelerometer trusted zone, and similarly I did for step_
 
   ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/07df422a-ef74-4ad4-84f8-f7885937cd96)
 
+# Bonus!
+
+- Return records for those only made after the customer has provided consent:
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/563c2622-1237-41f5-a92b-52af7ab50742)
+
+- Anonymise customer sensitive data in the curated tables:
+
+  - machine_learning_curated
+
+    ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/434da93c-1917-452e-9172-58da84aacb5a)
+
+  - customer_curated
+
+    ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/8a44e619-d621-407a-b0e1-a74d5ce6942e)
 
 
 
