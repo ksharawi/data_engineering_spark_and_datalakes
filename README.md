@@ -63,17 +63,30 @@ on the creation of the accelerometer trusted zone, and similarly I did for step_
 
 - accelerometer_trusted
   
-  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/becbb738-5628-4c75-b959-bc5155ec73e0)
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/5e717feb-d9b7-4c99-a3fb-4fc10a5633c4)
 
 - step_trainer_trusted
 
-  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/1485dadb-5a34-47fa-a5b7-e3848b340b2d)
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/aabc2b91-4400-4c79-a68f-50204824380d)
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/adaea0d9-d806-4b65-a919-ba25f0162c64)
 
 - customer_curated
 
   ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/796f27b6-8c61-4b6f-aa50-12ff93b38420)
 
   ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/b3fe3e94-3d6f-40e4-a8f2-e2aa5a2afea7)
+
+- machine_learning_curated
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/cfb33dee-a527-4774-8d5c-12cdd2608776)
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/8e8e020b-61b6-4dc4-bb5b-33f8ac8b3bd8)
+
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/07df422a-ef74-4ad4-84f8-f7885937cd96)
+
+
+
 
 
 
