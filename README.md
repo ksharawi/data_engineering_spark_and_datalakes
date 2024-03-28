@@ -71,7 +71,8 @@ on the creation of the accelerometer trusted zone, and similarly I did for step_
 
   ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/aabc2b91-4400-4c79-a68f-50204824380d)
 
-  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/adaea0d9-d806-4b65-a919-ba25f0162c64)
+  ![image](https://github.com/ksharawi/data_engineering_spark_and_datalakes/assets/94605032/afbc6ec2-d3be-4aae-95bd-b94f50d776e8)
+
 
 - customer_curated
 
